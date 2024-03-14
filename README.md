@@ -1,3 +1,1 @@
-# File upload in JavaScript with progress bar
-
-![file-upload-in-javascript-with-progress-bar]("./assets/images/demo.jpg")
+![file-upload-in-javascript-with-progress-bar](https://raw.githubusercontent.com/UsmanLiaqat404/file-upload-in-javascript-with-progress-bar/main/assets/images/demo.jpg)
